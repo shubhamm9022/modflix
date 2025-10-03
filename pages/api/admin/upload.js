@@ -1,4 +1,4 @@
-import { connectToDB } from '../../../../lib/mongodb';
+import { connectToDB } from '../../../lib/mongodb';
 import axios from 'axios';
 import { nanoid } from 'nanoid';
 
